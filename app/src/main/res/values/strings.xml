@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calificado</string>
+    <string name="title">LOVE MUSIC</string>
+    <string name="subtitle">This season top 20 albums</string>
+
+    <string name="bandMaiden">Iron Maiden</string>
+    <string name="maidenTitle">Somewhere in Time</string>
+    <string name="numberMaidenSongs">8 songs</string>
+
+    <string name="bandDio">Dio</string>
+    <string name="dioTitle">Holy Diver</string>
+    <string name="numberDioSongs">9 songs</string>
+
+    <string name="bandZenobia">Zenobia</string>
+    <string name="zenobiaTitle">SuperNova</string>
+    <string name="numberZenobiaSongs">10 songs</string>
+
+    <string name="nightcoreTitle">NightCore</string>
+    <string name="numberNCSongs">10 songs</string>
+</resources>
